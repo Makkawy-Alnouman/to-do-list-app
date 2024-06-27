@@ -1,6 +1,9 @@
 # To-Do List Application
 
 A simple command-line To-Do List application written in Python.
+Contributors
+Makkawy Alnouman
+Mohamed Ahmed Abu-Algasim
 
 ## Features
 
@@ -59,6 +62,3 @@ Enter your choice: 1
 To-Do List:
 1. Buy groceries
 
-Contributors
-Makkawy Alnouman
-Mohamed Ahmed Abu-Algasim
