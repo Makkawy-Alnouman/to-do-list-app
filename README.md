@@ -49,7 +49,7 @@ To-Do List Application
 5. Exit
 Enter your choice: 2
 Enter the task: Buy groceries
-Task added.
+Task added
 
 To-Do List Application
 1. View To-Do List
