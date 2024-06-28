@@ -2,10 +2,6 @@
 
 A simple command-line To-Do List application written in Python.
 
-## Contributes
-- Makkawy Alnouman
-- Mohamed Ahmed Abu-Algasim
-
 ## Features
 
 - View To-Do List
